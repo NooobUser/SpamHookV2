@@ -1,0 +1,35 @@
+{
+    "main": {
+        "mode": "Smart",
+        "autodelete": true,
+        "deletemessage": "TES EMBED",
+        "webhook": "https://discord.com/api/webhooks/1050214528438255666/0QOECFj8hzJHNRCPkPh8zDG_lSW5tnz4z7w-ZiKjtNKNUzPcBHVKXzKUhfb8uW8kXnUD"
+    },
+
+    "options": {
+        "content": "TES EMBED",
+        "username": ":))",
+        "maxmessage": "1",
+        "avatar": "https://i.ibb.co/8KF2m2t/ncrest.png"
+    },
+    "embed": {
+        "status": true,
+        "ping_only": false,
+        "title": "TES EMBED WEBHOOK",
+        "title_url": "",
+        "description": "SEMUA SEHAT BANG??",
+        "color": "31",
+        "footer": {
+            "text": "AISHHHH",
+            "icon_url": "https://i.ibb.co/8KF2m2t/ncrest.png"
+        },
+        "image": {
+            "url": "https://i.ibb.co/8KF2m2t/ncrest.png"
+        },
+        "author": {
+            "name": "AKU NGETES",
+            "url": "",
+            "icon_url": "https://i.ibb.co/8KF2m2t/ncrest.png"
+        }
+    }
+}
